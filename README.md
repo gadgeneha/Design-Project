@@ -3,7 +3,7 @@ This is an incremental design project done in Human Computer Interaction.
 This project is done in 5 stages:
 
 ### Stage 1 : 
-Selection of topic. The topic is selected as 'Daily Transportation and the problems associated with it'.
+Selection of topic. The topic is selected as 'Daily Transportation and the problems associated with it'. It was later modified into : Efficiency of navigation apps both indoors and outdoors.
 
 ### Stage 2 : 
   A formative research is done for the above mentioned topic and observations are written down based on interviews and field notes.
