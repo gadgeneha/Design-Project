@@ -1,4 +1,4 @@
-## Design-Project
+## UX Prototype for Indoor Mapping System
 This is an incremental design project done in Human Computer Interaction.
 This project is done in 5 stages:
 
